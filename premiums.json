@@ -1,0 +1,538 @@
+{
+  "withoutSpouse": {
+    "17": {
+      "Monthly": 27,
+      "MonthlyPnumber": 504,
+      "SemiAnnual": 160,
+      "SemiAnnualPnumber": 84,
+      "SingleFull": 3628
+    },
+    "18": {
+      "Monthly": 30,
+      "MonthlyPnumber": 492,
+      "SemiAnnual": 175,
+      "SemiAnnualPnumber": 82,
+      "SingleFull": 3960
+    },
+    "19": {
+      "Monthly": 32,
+      "MonthlyPnumber": 480,
+      "SemiAnnual": 191,
+      "SemiAnnualPnumber": 80,
+      "SingleFull": 4323
+    },
+    "20": {
+      "Monthly": 35,
+      "MonthlyPnumber": 468,
+      "SemiAnnual": 209,
+      "SemiAnnualPnumber": 78,
+      "SingleFull": 4718
+    },
+    "21": {
+      "Monthly": 39,
+      "MonthlyPnumber": 456,
+      "SemiAnnual": 229,
+      "SemiAnnualPnumber": 76,
+      "SingleFull": 5149
+    },
+    "22": {
+      "Monthly": 43,
+      "MonthlyPnumber": 444,
+      "SemiAnnual": 229,
+      "SemiAnnualPnumber": 76,
+      "SingleFull": 5149
+    },
+    "23": {
+      "Monthly": 47,
+      "MonthlyPnumber": 432,
+      "SemiAnnual": 275,
+      "SemiAnnualPnumber": 72,
+      "SingleFull": 6132
+    },
+    "24": {
+      "Monthly": 51,
+      "MonthlyPnumber": 420,
+      "SemiAnnual": 301,
+      "SemiAnnualPnumber": 70,
+      "SingleFull": 6692
+    },
+    "25": {
+      "Monthly": 56,
+      "MonthlyPnumber": 408,
+      "SemiAnnual": 330,
+      "SemiAnnualPnumber": 68,
+      "SingleFull": 7302
+    },
+    "26": {
+      "Monthly": 62,
+      "MonthlyPnumber": 396,
+      "SemiAnnual": 363,
+      "SemiAnnualPnumber": 66,
+      "SingleFull": 7969
+    },
+    "27": {
+      "Monthly": 68,
+      "MonthlyPnumber": 384,
+      "SemiAnnual": 398,
+      "SemiAnnualPnumber": 64,
+      "SingleFull": 8695
+    },
+    "28": {
+      "Monthly": 27,
+      "MonthlyPnumber": 372,
+      "SemiAnnual": 437,
+      "SemiAnnualPnumber": 62,
+      "SingleFull": 9488
+    },
+    "29": {
+      "Monthly": 82,
+      "MonthlyPnumber": 360,
+      "SemiAnnual": 481,
+      "SemiAnnualPnumber": 60,
+      "SingleFull": 10353
+    },
+    "30": {
+      "Monthly": 90,
+      "MonthlyPnumber": 348,
+      "SemiAnnual": 529,
+      "SemiAnnualPnumber": 58,
+      "SingleFull": 11297
+    },
+    "31": {
+      "Monthly": 99,
+      "MonthlyPnumber": 336,
+      "SemiAnnual": 582,
+      "SemiAnnualPnumber": 56,
+      "SingleFull": 12328
+    },
+    "32": {
+      "Monthly": 109,
+      "MonthlyPnumber": 324,
+      "SemiAnnual": 641,
+      "SemiAnnualPnumber": 54,
+      "SingleFull": 14682
+    },
+    "33": {
+      "Monthly": 120,
+      "MonthlyPnumber": 312,
+      "SemiAnnual": 707,
+      "SemiAnnualPnumber": 52,
+      "SingleFull": 14682
+    },
+    "34": {
+      "Monthly": 133,
+      "MonthlyPnumber": 300,
+      "SemiAnnual": 781,
+      "SemiAnnualPnumber": 50,
+      "SingleFull": 16024
+    },
+    "35": {
+      "Monthly": 147,
+      "MonthlyPnumber": 288,
+      "SemiAnnual": 864,
+      "SemiAnnualPnumber": 48,
+      "SingleFull": 17490
+    },
+    "36": {
+      "Monthly": 162,
+      "MonthlyPnumber": 276,
+      "SemiAnnual": 956,
+      "SemiAnnualPnumber": 46,
+      "SingleFull": 19093
+    },
+    "37": {
+      "Monthly": 180,
+      "MonthlyPnumber": 264,
+      "SemiAnnual": 1060,
+      "SemiAnnualPnumber": 44,
+      "SingleFull": 20846
+    },
+    "38": {
+      "Monthly": 200,
+      "MonthlyPnumber": 252,
+      "SemiAnnual": 1177,
+      "SemiAnnualPnumber": 42,
+      "SingleFull": 22763
+    },
+    "39": {
+      "Monthly": 222,
+      "MonthlyPnumber": 240,
+      "SemiAnnual": 1310,
+      "SemiAnnualPnumber": 40,
+      "SingleFull": 24860
+    },
+    "40": {
+      "Monthly": 248,
+      "MonthlyPnumber": 228,
+      "SemiAnnual": 1460,
+      "SemiAnnualPnumber": 38,
+      "SingleFull": 27155
+    },
+    "41": {
+      "Monthly": 277,
+      "MonthlyPnumber": 216,
+      "SemiAnnual": 1632,
+      "SemiAnnualPnumber": 36,
+      "SingleFull": 29668
+    },
+    "42": {
+      "Monthly": 311,
+      "MonthlyPnumber": 204,
+      "SemiAnnual": 1829,
+      "SemiAnnualPnumber": 34,
+      "SingleFull": 32421
+    },
+    "43": {
+      "Monthly": 349,
+      "MonthlyPnumber": 192,
+      "SemiAnnual": 2056,
+      "SemiAnnualPnumber": 32,
+      "SingleFull": 35439
+    },
+    "44": {
+      "Monthly": 394,
+      "MonthlyPnumber": 180,
+      "SemiAnnual": 2319,
+      "SemiAnnualPnumber": 30,
+      "SingleFull": 38749
+    },
+    "45": {
+      "Monthly": 446,
+      "MonthlyPnumber": 168,
+      "SemiAnnual": 2627,
+      "SemiAnnualPnumber": 28,
+      "SingleFull": 42380
+    },
+    "46": {
+      "Monthly": 508,
+      "MonthlyPnumber": 156,
+      "SemiAnnual": 2990,
+      "SemiAnnualPnumber": 26,
+      "SingleFull": 46269
+    },
+    "47": {
+      "Monthly": 581,
+      "MonthlyPnumber": 144,
+      "SemiAnnual": 3422,
+      "SemiAnnualPnumber": 24,
+      "SingleFull": 50755
+    },
+    "48": {
+      "Monthly": 670,
+      "MonthlyPnumber": 132,
+      "SemiAnnual": 3942,
+      "SemiAnnualPnumber": 22,
+      "SingleFull": 55580
+    },
+    "49": {
+      "Monthly": 778,
+      "MonthlyPnumber": 120,
+      "SemiAnnual": 4577,
+      "SemiAnnualPnumber": 20,
+      "SingleFull": 60983
+    },
+    "50": {
+      "Monthly": 912,
+      "MonthlyPnumber": 108,
+      "SemiAnnual": 5365,
+      "SemiAnnualPnumber": 18,
+      "SingleFull": 66749
+    },
+    "51": {
+      "Monthly": 1082,
+      "MonthlyPnumber": 96,
+      "SemiAnnual": 6366,
+      "SemiAnnualPnumber": 16,
+      "SingleFull": 73210
+    },
+    "52": {
+      "Monthly": 1304,
+      "MonthlyPnumber": 84,
+      "SemiAnnual": 7671,
+      "SemiAnnualPnumber": 14,
+      "SingleFull": 80349
+    },
+    "53": {
+      "Monthly": 1603,
+      "MonthlyPnumber": 72,
+      "SemiAnnual": 9431,
+      "SemiAnnualPnumber": 12,
+      "SingleFull": 88246
+    },
+    "54": {
+      "Monthly": 2027,
+      "MonthlyPnumber": 60,
+      "SemiAnnual": 11922,
+      "SemiAnnualPnumber": 10,
+      "SingleFull": 96991
+    }
+  },
+  "withSpouse": {
+    "17": {
+      "Monthly": 38,
+      "MonthlyPnumber": 504,
+      "SemiAnnual": 227,
+      "SemiAnnualPnumber": 84,
+      "SingleFull": 5153
+    },
+    "18": {
+      "Monthly": 42,
+      "MonthlyPnumber": 492,
+      "SemiAnnual": 248,
+      "SemiAnnualPnumber": 82,
+      "SingleFull": 5625
+    },
+    "19": {
+      "Monthly": 46,
+      "MonthlyPnumber": 480,
+      "SemiAnnual": 271,
+      "SemiAnnualPnumber": 80,
+      "SingleFull": 6139
+    },
+    "20": {
+      "Monthly": 50,
+      "MonthlyPnumber": 468,
+      "SemiAnnual": 297,
+      "SemiAnnualPnumber": 78,
+      "SingleFull": 6701
+    },
+    "21": {
+      "Monthly": 55,
+      "MonthlyPnumber": 456,
+      "SemiAnnual": 325,
+      "SemiAnnualPnumber": 76,
+      "SingleFull": 7313
+    },
+    "22": {
+      "Monthly": 60,
+      "MonthlyPnumber": 444,
+      "SemiAnnual": 356,
+      "SemiAnnualPnumber": 74,
+      "SingleFull": 7981
+    },
+    "23": {
+      "Monthly": 66,
+      "MonthlyPnumber": 432,
+      "SemiAnnual": 390,
+      "SemiAnnualPnumber": 72,
+      "SingleFull": 8709
+    },
+    "24": {
+      "Monthly": 73,
+      "MonthlyPnumber": 420,
+      "SemiAnnual": 428,
+      "SemiAnnualPnumber": 70,
+      "SingleFull": 9504
+    },
+    "25": {
+      "Monthly": 80,
+      "MonthlyPnumber": 408,
+      "SemiAnnual": 469,
+      "SemiAnnualPnumber": 68,
+      "SingleFull": 10371
+    },
+    "26": {
+      "Monthly": 87,
+      "MonthlyPnumber": 396,
+      "SemiAnnual": 515,
+      "SemiAnnualPnumber": 66,
+      "SingleFull": 11317
+    },
+    "27": {
+      "Monthly": 96,
+      "MonthlyPnumber": 384,
+      "SemiAnnual": 565,
+      "SemiAnnualPnumber": 64,
+      "SingleFull": 12349
+    },
+    "28": {
+      "Monthly": 105,
+      "MonthlyPnumber": 372,
+      "SemiAnnual": 621,
+      "SemiAnnualPnumber": 62,
+      "SingleFull": 13475
+    },
+    "29": {
+      "Monthly": 116,
+      "MonthlyPnumber": 360,
+      "SemiAnnual": 683,
+      "SemiAnnualPnumber": 60,
+      "SingleFull": 14703
+    },
+    "30": {
+      "Monthly": 127,
+      "MonthlyPnumber": 348,
+      "SemiAnnual": 751,
+      "SemiAnnualPnumber": 58,
+      "SingleFull": 16045
+    },
+    "31": {
+      "Monthly": 140,
+      "MonthlyPnumber": 336,
+      "SemiAnnual": 827,
+      "SemiAnnualPnumber": 56,
+      "SingleFull": 17509
+    },
+    "32": {
+      "Monthly": 155,
+      "MonthlyPnumber": 324,
+      "SemiAnnual": 911,
+      "SemiAnnualPnumber": 54,
+      "SingleFull": 19107
+    },
+    "33": {
+      "Monthly": 171,
+      "MonthlyPnumber": 312,
+      "SemiAnnual": 1005,
+      "SemiAnnualPnumber": 52,
+      "SingleFull": 20851
+    },
+    "34": {
+      "Monthly": 188,
+      "MonthlyPnumber": 300,
+      "SemiAnnual": 1109,
+      "SemiAnnualPnumber": 50,
+      "SingleFull": 22758
+    },
+    "35": {
+      "Monthly": 208,
+      "MonthlyPnumber": 288,
+      "SemiAnnual": 1226,
+      "SemiAnnualPnumber": 48,
+      "SingleFull": 24841
+    },
+    "36": {
+      "Monthly": 231,
+      "MonthlyPnumber": 276,
+      "SemiAnnual": 1358,
+      "SemiAnnualPnumber": 46,
+      "SingleFull": 27117
+    },
+    "37": {
+      "Monthly": 256,
+      "MonthlyPnumber": 264,
+      "SemiAnnual": 1505,
+      "SemiAnnualPnumber": 44,
+      "SingleFull": 29606
+    },
+    "38": {
+      "Monthly": 284,
+      "MonthlyPnumber": 252,
+      "SemiAnnual": 1672,
+      "SemiAnnualPnumber": 42,
+      "SingleFull": 32329
+    },
+    "39": {
+      "Monthly": 316,
+      "MonthlyPnumber": 240,
+      "SemiAnnual": 1860,
+      "SemiAnnualPnumber": 40,
+      "SingleFull": 35307
+    },
+    "40": {
+      "Monthly": 352,
+      "MonthlyPnumber": 228,
+      "SemiAnnual": 2074,
+      "SemiAnnualPnumber": 38,
+      "SingleFull": 38567
+    },
+    "41": {
+      "Monthly": 394,
+      "MonthlyPnumber": 216,
+      "SemiAnnual": 2318,
+      "SemiAnnualPnumber": 36,
+      "SingleFull": 42136
+    },
+    "42": {
+      "Monthly": 441,
+      "MonthlyPnumber": 204,
+      "SemiAnnual": 2598,
+      "SemiAnnualPnumber": 34,
+      "SingleFull": 46046
+    },
+    "43": {
+      "Monthly": 496,
+      "MonthlyPnumber": 192,
+      "SemiAnnual": 2920,
+      "SemiAnnualPnumber": 32,
+      "SingleFull": 50332
+    },
+    "44": {
+      "Monthly": 560,
+      "MonthlyPnumber": 180,
+      "SemiAnnual": 3294,
+      "SemiAnnualPnumber": 30,
+      "SingleFull": 12085
+    },
+    "45": {
+      "Monthly": 634,
+      "MonthlyPnumber": 168,
+      "SemiAnnual": 3731,
+      "SemiAnnualPnumber": 28,
+      "SingleFull": 60190
+    },
+    "46": {
+      "Monthly": 721,
+      "MonthlyPnumber": 156,
+      "SemiAnnual": 4246,
+      "SemiAnnualPnumber": 26,
+      "SingleFull": 65856
+    },
+    "47": {
+      "Monthly": 826,
+      "MonthlyPnumber": 144,
+      "SemiAnnual": 4860,
+      "SemiAnnualPnumber": 24,
+      "SingleFull": 72084
+    },
+    "48": {
+      "Monthly": 951,
+      "MonthlyPnumber": 132,
+      "SemiAnnual": 5598,
+      "SemiAnnualPnumber": 22,
+      "SingleFull": 78937
+    },
+    "49": {
+      "Monthly": 1105,
+      "MonthlyPnumber": 120,
+      "SemiAnnual": 6500,
+      "SemiAnnualPnumber": 20,
+      "SingleFull": 86483
+    },
+    "50": {
+      "Monthly": 1295,
+      "MonthlyPnumber": 108,
+      "SemiAnnual": 7620,
+      "SemiAnnualPnumber": 18,
+      "SingleFull": 94799
+    },
+    "51": {
+      "Monthly": 1537,
+      "MonthlyPnumber": 96,
+      "SemiAnnual": 9042,
+      "SemiAnnualPnumber": 16,
+      "SingleFull": 103975
+    },
+    "52": {
+      "Monthly": 1852,
+      "MonthlyPnumber": 84,
+      "SemiAnnual": 10894,
+      "SemiAnnualPnumber": 14,
+      "SingleFull": 114115
+    },
+    "53": {
+      "Monthly": 2277,
+      "MonthlyPnumber": 72,
+      "SemiAnnual": 13395,
+      "SemiAnnualPnumber": 12,
+      "SingleFull": 125330
+    },
+    "54": {
+      "Monthly": 2879,
+      "MonthlyPnumber": 60,
+      "SemiAnnual": 16932,
+      "SemiAnnualPnumber": 10,
+      "SingleFull": 137750
+    }
+  }
+}
