@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 2,
   "withoutSpouse": {
     "17": {
       "Monthly": 27,
@@ -79,7 +79,7 @@
       "SingleFull": 8695
     },
     "28": {
-      "Monthly": 749,
+      "Monthly": 74,
       "MonthlyPnumber": 372,
       "SemiAnnual": 437,
       "SemiAnnualPnumber": 62,
