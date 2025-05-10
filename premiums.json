@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "withoutSpouse": {
     "17": {
       "Monthly": 27,
@@ -39,9 +39,9 @@
     "22": {
       "Monthly": 43,
       "MonthlyPnumber": 444,
-      "SemiAnnual": 229,
-      "SemiAnnualPnumber": 76,
-      "SingleFull": 5149
+      "SemiAnnual": 251,
+      "SemiAnnualPnumber": 74,
+      "SingleFull": 5619
     },
     "23": {
       "Monthly": 47,
@@ -111,7 +111,7 @@
       "MonthlyPnumber": 324,
       "SemiAnnual": 641,
       "SemiAnnualPnumber": 54,
-      "SingleFull": 14682
+      "SingleFull": 13453
     },
     "33": {
       "Monthly": 120,
@@ -463,7 +463,7 @@
       "MonthlyPnumber": 180,
       "SemiAnnual": 3294,
       "SemiAnnualPnumber": 30,
-      "SingleFull": 12085
+      "SingleFull": 55032
     },
     "45": {
       "Monthly": 634,
